@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python 3, rabbitMQ, event driven architecture**
 
-- 👨‍💻 All of my projects are available at [my github](my github)
-
 - 💬 Ask me about **.Net Core 3.0>, Angular, Spring Boot, Xamarin forms**
 
 - 📫 How to reach me **daniel.vargasf1997@gmail.com**
