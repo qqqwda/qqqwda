@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Vargas</h1>
-<h3 align="center">A tech enthusiast from Santiago, Chile</h3>
+<h3 align="center">Software Engineer from Santiago, Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qqqwda&label=Profile%20views&color=0e75b6&style=flat" alt="qqqwda" /> </p>
 
