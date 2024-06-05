@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python 3, rabbitMQ, event driven architecture**
 
-- 💬 Ask me about **.Net Core 3.0>, .Net Framework 4.6>, Angular, Spring Boot, Xamarin forms**
+- 💬 Ask me about **.Net Core 3.0>, .Net Framework 4.6>, Angular, Python, Selenium, Spring Boot, Xamarin forms**
 
 - 📫 How to reach me **daniel.vargasf1997@gmail.com**
 
