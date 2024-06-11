@@ -10,7 +10,6 @@
 - 💬 Ask me about **.Net Core 3.0>, .Net Framework 4.6>, Angular, Python, Selenium, Spring Boot, Xamarin forms**
 
 - 📫 How to reach me **daniel.vargasf1997@gmail.com**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/daniel_vargasf11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="daniel_vargasf11" height="30" width="40" /></a>
