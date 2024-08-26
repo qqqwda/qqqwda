@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qqqwda" alt="qqqwda" /></a> </p>
 
-- 🌱 I’m currently learning **Python 3, rabbitMQ, Event Driven Architecture**
+- 🌱 I’m currently learning **Python 3, rabbitMQ, Event Driven Architecture** 
 
 - 💬 Ask me about **.Net Core 3.0>, .Net Framework 4.6>, Angular, Python, Selenium, Spring Boot, Xamarin forms**
 
